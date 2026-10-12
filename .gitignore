@@ -1,0 +1,10 @@
+# Local and build artifacts
+*.exe
+*.blockmap
+latest.yml
+release/
+dist/
+node_modules/
+.DS_Store
+Thumbs.db
+
